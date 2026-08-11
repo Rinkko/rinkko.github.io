@@ -7,11 +7,12 @@ title                  = "Rinkko's Milestone"
 defaultContentLanguage = "zh"
 # Set hasCJKLanguage to true if DefaultContentLanguage is a CJK language
 # This will make .Summary and .WordCount behave correctly
-hasCJKLanguage         = false
+hasCJKLanguage         = true
 
 [pagination]
-    pagerSize = 3
+    pagerSize = 10
 
 [permalinks]
     post = "/p/:slug/"
     page = "/:slug/"
+    

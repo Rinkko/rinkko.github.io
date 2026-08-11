@@ -1,15 +1,7 @@
 [[social]]
-    identifier = "github"
-    name       = "GitHub"
-    url        = "https://github.com/CaiJimmy/hugo-theme-stack"
+    identifier = "mastodon"
+    name       = "NyaOne"
+    url        = "https://nya.one/@Rinkko"
 
     [social.params]
-        icon = "brand-github"
-
-[[social]]
-    identifier = "twitter"
-    name       = "Twitter"
-    url        = "https://twitter.com"
-
-    [social.params]
-        icon = "brand-twitter"
+        icon = "misskey"

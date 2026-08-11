@@ -1,8 +1,8 @@
 [zh]
     label  = "简体中文"
-    title  = "Hugo 主题 Stack"
+    title  = "Rinkko's Milestone"
     weight = 1
 
     [zh.params.sidebar]
-        subtitle = "为博客设计的卡片式 Hugo 主题"
+        subtitle = "不要忘记出发的方向。"
 
